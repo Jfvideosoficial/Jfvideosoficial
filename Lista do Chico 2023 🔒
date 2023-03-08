@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9w2W2cXcfnPSISAUjaoE87pEbj-3ZDflHMg&usqp=CAU"", TELECINE PIPOCA
-http://contentzord.gelderland.ga:2095/live/telecinepipoca/chunks.m3u8?token=78ewq45qew12sdd
+#EXTINF:-1 tvg-logo="https://lh3.ggpht.com/-ogg-lDOexbw/Y1cU3X8DxSI/AAAAAAAAGYM/gd7Xy4GCwa8tLLo0f7xByRjdH-tatDLPACNcBGAsYHQ/s800/flamengo.png"", JOGO FLAMENGO 
+http://etc.meshmixer.cf:2095/live/band/chunks.m3u8?token=1678405758_a277d09bad4747771a1ec7f6efc592bc68854ae1
 
 #EXTINF:-1 tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9w2W2cXcfnPSISAUjaoE87pEbj-3ZDflHMg&usqp=CAU"", TELECINE PREMIUM
 http://contentzord.gelderland.ga:2095/live/telecinepremium/chunks.m3u8?token=78ewq45qew12sdd
